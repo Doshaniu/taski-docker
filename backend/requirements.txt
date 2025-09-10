@@ -4,7 +4,7 @@ django-cors-headers==3.13.0
 djangorestframework==3.12.4
 dotenv==0.9.9
 flake8==6.0.0
-flake8-isort==6.1.2
+flake8-isort==6.1.0
 isort==5.13.2
 mccabe==0.7.0
 pycodestyle==2.10.0
